@@ -1,0 +1,39 @@
+---
+title: "Does Medicaid crowd-out private health insurance?"
+author: "Christian Romero"
+date: "4/15/2020"
+output: 
+  pdf_document: 
+    toc: yes
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+library(pacman)
+library(tidyverse)
+library(ggplot2)
+library(dplyr)
+library(lubridate)
+library(sqldf)
+library(ggbeeswarm)
+library(gtools)
+library(kableExtra)
+library(tidyr)
+```
+
+# What is Medicaid and why did it expand?
+
+
+# Literature review
+
+
+# Data presentation
+
+
+# Methodology
+
+
+# References
+
+Cseh, A., Koford, B. C., & Phelps, R. T. (2015). Hospital utilization and universal health insurance coverage: Evidence from the massachusetts health care reform act. Applied Health Economics and Health Policy, 13(6), 627-635. doi:http://dx.doi.org.proxy.library.emory.edu/10.1007/s40258-015-0178-1
+
