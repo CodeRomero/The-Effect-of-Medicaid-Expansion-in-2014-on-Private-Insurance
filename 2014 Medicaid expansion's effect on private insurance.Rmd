@@ -23,6 +23,9 @@ library(tidyr)
 
 # What is Medicaid and why did it expand?
 
+Why does this topic matter?
+
+1) It is important to know how 
 
 # Literature review
 
@@ -35,5 +38,19 @@ library(tidyr)
 
 # References
 
-Cseh, A., Koford, B. C., & Phelps, R. T. (2015). Hospital utilization and universal health insurance coverage: Evidence from the massachusetts health care reform act. Applied Health Economics and Health Policy, 13(6), 627-635. doi:http://dx.doi.org.proxy.library.emory.edu/10.1007/s40258-015-0178-1
+Cseh, A., Koford, B., & Phelps, R. (2015). Hospital utilization and universal health insurance coverage: Evidence from the massachusetts health care reform act. Applied Health Economics and Health Policy, 13(6), 627-635. doi:http://dx.doi.org.proxy.library.emory.edu/10.1007/s40258-015-0178-1
+
+Cutler, D. & Gruber, J. (May 1996) Does Public Insurance Crowd out Private Insurance?, The Quarterly Journal of Economics, Volume 111, Issue 2, 391–430, https://doi.org/10.2307/2946683
+
+Milani, F. (2010). Public option and private profits: What do markets expect?. Applied health economics and health policy. 8. 155-65. 10.2165/11535510-000000000-00000. 
+
+Pendzialek, J.B., Simic, D. & Stock, S. (2016) Differences in price elasticities of demand for health insurance: a systematic review. Eur J Health Econ 17, 5–21 . https://doi-org.proxy.library.emory.edu/10.1007/s10198-014-0650-0
+
+Pines et al
+
+Sommers B., Blendon R., Orav E., Epstein A. (2016 October). Changes in Utilization and Health Among Low-Income Adults After Medicaid Expansion or Expanded Private Insurance. JAMA Intern Med. 2016;176(10):1501–1509. doi:10.1001/jamainternmed.2016.4419
+
+Thornton, J., & Rice, J. (2008). Does extending health insurance coverage to the uninsured improve population health outcomes?. Appl Health Econ Health Policy 6, 217–230. https://doi-org.proxy.library.emory.edu/10.1007/BF03256135
+
+Yazici, E., & Kaestner, R. (2000). Medicaid Expansions and the Crowding Out of Private Health Insurance Among Children. Inquiry, 37(1), 23-32. Retrieved April 15, 2020, from www.jstor.org/stable/29772870
 
