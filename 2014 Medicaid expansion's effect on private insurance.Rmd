@@ -21,19 +21,99 @@ library(kableExtra)
 library(tidyr)
 ```
 
-# What is Medicaid and why did it expand?
 
-Why does this topic matter?
+# Preliminaries
+## Questions for Dr. McCarthy
 
-1) It is important to know how 
+I'd like some extra guidance about the framework
+
+I'm going beyond the scope of HW5 & wondering if I'm starting in the right place/have the right idea about this scope.
+
+*What kind of extra data is needed?*
+
+Courtmanche et al does D&D w/ ACS data - should I go beyond that & look at individual plan data?
+
+For example, Florida has Medicaid enrollment data going back to 2014 on statewide enrollment, agegroup, plans, etc.
+
+SMMC (Statewide Medicaid Managed Care) Market Share & (MMA) Managed Medical Assistance share, detailed data on plan coverage by age group per FL region. Mandatory & volunary? Were some people mandated to enroll in a Medicaid plan?
+
+So would a D&D in 
+
+Sommers et al. does a survey of low-income adults & track their outcomes between expansion states & non-expansion states. They do D&D to see 
+
+
+reduction of employered sponsored insurance
+
+Remove effects of exchanges? 
+
+second analysis that examines reduction in private insurance and employee sponsored insurance among late expanders. Employer-sponsered insurance as outcome? is there causal effect?
+
+2nd major policy happening at same time
+
+second analysis but quantifying the effect on the direct purchase.
+
+
+# Takeaways from office hours
+
+No worries about paper length
+
+Framework/Outline:
+
+* Introduction
+
+* Background information about Medicaid expansion policies (explain the mechanisms of crowdout)
+
+* Explaining relevancy of dataset
+
+* Describing dataset
+
+* Discussing methodology & the strengths/limitations/corrections (different word)
+
+* Extension 1: quantifying the effect on direct purchase exchanges
+
+* Results output
+
+* Discussion ("economic significance" of results)
+
+* Conclusion
+
+Core analysis process similar to HW 5, but w/ private insurance as outcome
+
+Extension analysis will focus on direct purchase enrollments in late expanding states 
+
+Qualitatively analyze the data & results
+
+# Introduction (Why does this topic matter?)
+
 
 # Literature review
 
+**Cutler & Gruber**:Eligibilty expands -> crowdout? Why: Not empoleyr-provided reductions, but employer demand falling (not asking offered)
 
-# Data presentation
+In theory, crowdout comes from valuation 
+
+Regression: $coverage=eligbility+demographic vector+state+time$
+
+Selection on observabls & common support
+
+Summarize in a succinct way.
+
+
+# Data description
+
 
 
 # Methodology
+
+Diff-in-Diff
+
+IV
+
+Reg Discontinuity
+
+# Results 
+
+# Conclusion
 
 
 # References
@@ -45,8 +125,6 @@ Cutler, D. & Gruber, J. (May 1996) Does Public Insurance Crowd out Private Insur
 Milani, F. (2010). Public option and private profits: What do markets expect?. Applied health economics and health policy. 8. 155-65. 10.2165/11535510-000000000-00000. 
 
 Pendzialek, J.B., Simic, D. & Stock, S. (2016) Differences in price elasticities of demand for health insurance: a systematic review. Eur J Health Econ 17, 5–21 . https://doi-org.proxy.library.emory.edu/10.1007/s10198-014-0650-0
-
-Pines et al
 
 Sommers B., Blendon R., Orav E., Epstein A. (2016 October). Changes in Utilization and Health Among Low-Income Adults After Medicaid Expansion or Expanded Private Insurance. JAMA Intern Med. 2016;176(10):1501–1509. doi:10.1001/jamainternmed.2016.4419
 
